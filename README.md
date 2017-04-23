@@ -121,6 +121,7 @@
 
 <p>
 <img src="http://download-telegram.ru/wp-content/uploads/2015/06/skachat-stikery-afisha-uz-tashmurad-bir-dlya-telegram-1.png">
+
 <p>
 <table>
 <tbody>
