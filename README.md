@@ -44,6 +44,15 @@
 </tr>
 
 <tr>
+<th>Keywords Test</th>
+<td>Most common keywords are not appearing in one or more of the meta-tags above.</td>
+<td>Primary keywords should appear in this meta-tags to help identify the topic of this webpage to search engines.
+<p>⟩⟩  Keyword(s) not included in Meta-Title
+<p>⟩⟩  Keyword(s) not included in Meta-Description
+</td>
+</tr>
+
+<tr>
 <th>headings</th>
 <td>There is not H1</td>
 <td>No H1 headings Found, it highly effects your page SEO.</td>
@@ -53,6 +62,18 @@
 <th>SEO friendly</th>
 <td>An SEO friendly url must caontain only lower alphabets, numbers, slashes(/), dash(-).</td>
 <td>15 internal urls found that are not seo friendly. Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.</td>
+</tr>
+
+<tr>
+<th>Noindex Tag Checker</th>
+<td>this means that your webpage will be read and indexed by search engines.</td>
+<td>this webpage does not use the noindex meta tag.</td>
+</tr>
+
+<tr>
+<th>Nofollow Tag Checker</th>
+<td>this means that search engins will crawl all links from your webpage.</td>
+<td>this webpage does not use the nofollow meta tag.</td>
 </tr>
 
 <tr>
@@ -71,6 +92,29 @@
 <td>this webpage is successfully compressed using gzip compression </td>
 <td>this webpage is compressed from 48.86 Kb to 11.1 Kb (77 % size savings).</td>
 </tr>
+
+<tr>
+<th>Google Search Results Preview</th>
+<td colspan="2">Afisha.uz - Афиша Ташкента <p> http://www.afisha.uz
+<p>
+</td>
+</tr>
+
+<tr>
+<th>Robots.txt Test</th>
+<td colspan="2">This site use a "robots.txt" file: http://afisha.uz/robots.txt <p> ⟩⟩ http://afisha.uz/robots.txt
+<p>
+</td>
+</tr>
+
+<tr>
+<th>Sitemap Test</th>
+<td> 1 sitemaps files for your website: <p> ⟩⟩ http://www.afisha.uz/sitemap.xml
+<p>
+</td>
+</tr>
+
+
 
 </tbody></table>
 
