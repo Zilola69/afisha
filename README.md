@@ -73,5 +73,56 @@
 </tr>
 
 </tbody></table>
+
+
+<p>
+
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">MozRank Checker</marquee></th>
+</tr>
+
+<tr>
+<th>URL:</th>
+<th>Domain Authority(Max = 100)</th>
+<th>Moz Rank</th>
+</tr>
+
+<tr>
+<th>http://www.afisha.uz/</th>
+<td>41.25</td>
+<td>4.90</td>
+</tr>
+
+</tbody>
+</table>
+
+<img src="http://download-telegram.ru/wp-content/uploads/2015/06/skachat-stikery-afisha-uz-tashmurad-bir-dlya-telegram-1.png">
+<p>
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">Domain Age Checker</marquee></th>
+</tr>
+
+<tr>
+<th>Domain Created on :</th>
+<th>Age</th>
+<th>Domain Updated on :</th>
+</tr>
+
+<tr>
+<th>NIL</th>
+<td>NIL</td>
+<td>NIL</td>
+</tr>
+
+</tbody>
+</table>
+
+
 </div>
 </body></html>
